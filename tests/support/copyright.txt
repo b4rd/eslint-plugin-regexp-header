@@ -1,0 +1,4 @@
+//
+// Copyright \d{4}
+// My Company
+//
