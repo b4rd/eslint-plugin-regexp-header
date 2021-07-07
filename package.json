@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-regexp-header",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Checks the header of a source file against a header that contains a regular expression for each line of the source header",
   "keywords": [
     "eslint",
